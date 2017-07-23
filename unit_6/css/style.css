@@ -1,0 +1,144 @@
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+body {
+	background-color: white;
+}
+
+nav {
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+	display: inline-block;
+}
+
+a {
+	margin-left: 1442px;
+	margin-bottom: 20px;
+}
+
+.button {
+    display: inline-block;
+    text-align: left;
+    vertical-align: left;
+    padding: 12px 34px;
+    border: 1px solid #d31145;
+    border-radius: 0px;
+    background: #d31145;
+    font: normal normal normal 20px Calibri;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.button:hover,
+.button:focus {
+    border: 1px solid #ff1b6e;
+    background: #fd1453;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #7f0a29;
+}
+
+img {
+	background: url("image/webbanner.png");
+	display: inline-block;
+	margin: auto;
+	width: 100%;
+	height: 100%;
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 0 1.5em;
+	margin: 0 1.5em;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 60%
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 32%;
+}
+
+article {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+	font-family: Calibri;
+	font-size: 32px;
+	font-weight: 200;
+	color: #d31145;
+	margin: 1em 0 0 0;
+}
+
+p {
+	font-family: Calibri;
+	font-size: 18px;
+	font-weight: 200;
+	color: black;
+	margin: .5em 0 0 0;
+}
+
+ul {
+	font-family: Calibri;
+	font-size: 18px;
+	font-weight: 200;
+	color: black;
+}
+
+footer {
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+	padding: 1.5em;
+	margin: 1.5em;
+}
+
+h4 {
+	font-family: Calibri;
+	font-size: 20px;
+	font-weight: 500;
+	color: #d31145;
+	margin: 0;
+}
+
+disclaimer {
+	font-family: Calibri;
+	font-size: 12px;
+	font-weight: 200;
+	color: black;
+	margin: .5em 0 0 0;
+}
